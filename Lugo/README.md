@@ -1,2 +1,3 @@
-Carpeta de prueba
+Aqui se depositaran las practicas de laboratorio
+
 
